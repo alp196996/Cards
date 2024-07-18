@@ -1,6 +1,8 @@
-[
-    {
-        "id": 1,
-        "name": "Who gets paid\ntoo much for\nwhat they do?"
-    }
-]
+{
+    "Cards": [
+        {
+            "id": 1,
+            "card": "Who gets paid\ntoo much for\nwhat they do?"
+        }
+    ]
+}
